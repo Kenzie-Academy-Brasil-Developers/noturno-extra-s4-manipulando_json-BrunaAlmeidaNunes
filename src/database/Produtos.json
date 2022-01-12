@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Console Kenzie Duck Series S, 512GB, Branco",
+        "value": 2384.90,
+        "discount": {
+            "enabled": "false",
+            "percentage": 30
+        },
+        "stockQuantity": 23,
+        "category": "technology",
+        "image": "",
+        "rate": 5.0,
+        "votes": 40
+    },
+    {
+        "name": "HD Kenzie, 2TB, 3.5´, SATA",
+        "value": 374.90,
+        "discount": {
+            "enabled": "true",
+            "percentage": 30
+        },
+        "stockQuantity": 10,
+        "category": "technology",
+        "image": "",
+        "rate": 5.0,
+        "votes": 30
+    },
+    {
+        "name": "Monitor Gamer Kenzie, 24 Full HD, 144Hz, 1ms, FreeSync Premium, HDMI/Displayport, Ajuste de altura, Preto",
+        "value": 1990.90,
+        "discount": {
+            "enabled": "true",
+            "percentage": 19
+        },
+        "stockQuantity": 10,
+        "category": "technology",
+        "image": "",
+        "rate": 0.0,
+        "votes": 0
+    },
+    {
+        "name": "Cadeira Gamer Kenzie Gaming Snow, Preto e Azul, Cilindro de Gás Classe 4, Base em Metal, Roda em Nylon",
+        "value": 894.64,
+        "discount": {
+            "enabled": "true",
+            "percentage": 35
+        },
+        "stockQuantity": 10,
+        "category": "office",
+        "image": "",
+        "rate": 5.0,
+        "votes": 140
+    },
+    {
+        "name": "Mascara De Protecao",
+        "value": 30.00,
+        "discount": {
+            "enabled": "false",
+            "percentage": 0
+        },
+        "stockQuantity": 27,
+        "category": "cloth",
+        "image": "",
+        "rate": 5.0,
+        "votes": 17
+    },
+    {
+        "name": "Camiseta Kenzie",
+        "value": 129.00,
+        "discount": {
+            "enabled": "false",
+            "percentage": 0
+        },
+        "stockQuantity": 20,
+        "category": "cloth",
+        "image": "",
+        "rate": 0.0,
+        "votes": 0
+    },
+    {
+        "name": "Camiseta Rubber Duck",
+        "value": 129.00,
+        "discount": {
+            "enabled": "false",
+            "percentage": 0
+        },
+        "stockQuantity": 713,
+        "category": "cloth",
+        "image": "",
+        "rate": 4.6,
+        "votes": 27
+    },
+    {
+        "name": "Kit Bordado Camisetas Kenzie",
+        "value": 219.00,
+        "discount": {
+            "enabled": "false",
+            "percentage": 0
+        },
+        "stockQuantity": 5000,
+        "category": "cloth",
+        "image": "",
+        "rate": 5.0,
+        "votes": 25
+    },
+    {
+        "name": "Mesa de pebolim",
+        "value": 1189.29,
+        "discount": {
+            "enabled": "true",
+            "percentage": 5
+        },
+        "stockQuantity": 41,
+        "category": "toy",
+        "image": "",
+        "rate": 4.3,
+        "votes": 29
+    },
+    {
+        "name": "Jogo De Dardos",
+        "value": 68.90,
+        "discount": {
+            "enabled": "true",
+            "percentage": 12
+        },
+        "stockQuantity": 4,
+        "category": "toy",
+        "image": "",
+        "rate": 0.0,
+        "votes": 0
+    },
+    {
+        "name": "Jogo De Boliche",
+        "value": 112.01,
+        "discount": {
+            "enabled": "false",
+            "percentage": 0
+        },
+        "stockQuantity": 4,
+        "category": "toy",
+        "image": "",
+        "rate": 0.0,
+        "votes": 0
+    },
+    {
+        "name": "Raquete De Tênis De Mesa",
+        "value": 39.99,
+        "discount": {
+            "enabled": "false",
+            "percentage": 0
+        },
+        "stockQuantity": 18,
+        "category": "toy",
+        "image": "",
+        "rate": 0.0,
+        "votes": 0
+    },
+    {
+        "name": "Maleta Kit Maquiagem",
+        "value": 149.90,
+        "discount": {
+            "enabled": "true",
+            "percentage": 10
+        },
+        "stockQuantity": 30,
+        "category": "beauty",
+        "image": "",
+        "rate": 0.0,
+        "votes": 0
+    },
+    {
+        "name": "Perfume Kenzie Wear Masculino",
+        "value": 99.99,
+        "discount": {
+            "enabled": "false",
+            "percentage": 0
+        },
+        "stockQuantity": 48,
+        "category": "beauty",
+        "image": "",
+        "rate": 0.0,
+        "votes": 0
+    },
+    {
+        "name": "Kenzie Klein Eternity for Women",
+        "value": 236.90,
+        "discount": {
+            "enabled": "true",
+            "percentage": 3
+        },
+        "stockQuantity": 78,
+        "category": "beauty",
+        "image": "",
+        "rate": 0.0,
+        "votes": 0
+    }
+]
