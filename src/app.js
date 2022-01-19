@@ -1,13 +1,13 @@
-const produtos = require("./database/Produtos.json");
+const listaProdutos = require("./database/Produtos.json");
 
 
 /**
  * Descomente depois de terminar
  */
-// const { childrensDay, beautyDay, mostStarredItems, newItems } = require("./funcoes/composed");
-// childrensDay();
-// beautyDay();
-// mostStarredItems();
-// newItems();
+ const { childrensDay, beautyDay, mostStarredItems, newItems } = require("./funcoes/composed");
+ childrensDay();
+ beautyDay();
+ mostStarredItems();
+ newItems();
 
-modules.export = produtos;
+modules.export = listaProdutos;
